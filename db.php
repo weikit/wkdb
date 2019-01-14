@@ -3513,7 +3513,7 @@ function convert_pdo_placeholders($sql, $params) {
         $params_keys = array_keys($params);
         $first_key = array_shift($params_keys);
 
-        if ((is_int($first_key) && strpos($sql, '?') === false) || substr($first_key, 0, 1) !== ':') { // wpdb style
+        if ((is_int($first_key) && strpos($sql, '?') === false) && substr($first_key, 0, 1) !== ':') { // wpdb style
             return [$sql, $params];
         }
 

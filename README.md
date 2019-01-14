@@ -1,8 +1,9 @@
 # wkdb
 PDO mysql support for Wordpress
-Tags: database, backend, pdo, mysql
-Tested up to: 5.0.0
-License: GPLv2 or later
+* Tags: database, backend, pdo, mysql
+* Tested up to: 5.0.0
+* License: GPLv2 or later
+
 
 ## Install
 

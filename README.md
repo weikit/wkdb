@@ -8,7 +8,7 @@ License: GPLv2 or later
 
 1. copy `db.php` file to `your_wordpress_project/wp-contents`.
 
-## Useage
+## Usage
 
 ```php
 // Compatible with $wpdb methods

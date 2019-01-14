@@ -4,6 +4,9 @@ PDO mysql support for Wordpress
 * Tested up to: 5.0.0
 * License: GPLv2 or later
 
+Based on Marko Heijnen's [wp-db-driver](https://github.com/markoheijnen/wp-db-driver)
+
+
 
 ## Install
 

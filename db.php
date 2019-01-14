@@ -2,7 +2,7 @@
 /*
 Plugin Name: Wordpress PDO mysql support Drop-In
 Description: pdo mysql support for Wordpress.
-Version: 0.0.1
+Version: 0.0.2
 Author: callmez
 Author URI: https://github.com/callmez/
 
